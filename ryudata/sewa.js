@@ -1,10 +1,30 @@
 exports.sewa = () => {
-	return`𝗢 𝗣 𝗘 𝗡  𝗦 𝗘 𝗪 𝗔  𝗕 𝗢 𝗧
+	return`*╭─ [ 🇸 🇪 🇼 🇦  🇧 🇴 🇹   🇼 🇦  ]*
+*│• 1 MINGGU : 5k*
+*│• 1 BULAN : 7k*
+*│• PERMANEN :15k*
+*╰────*
+*╭─ [ KELEBIHAN BOT ]*
+*│• FAST RESPON*
+*│• MENU GG*
+*│• ANTILINK, WELCOME ON,*   
+*│•DLL*
+*╰────*
+*╭─[ KEUNTUNGAN ]*
+*│• ANTI LINK ( AUTO KICK )*
+*│• WELCOME OTOMATIS*
+*│• BUAT STIKER*
+*│• PERINTAH ADMIN*
+*│• DLL, FITUR GG🥵*
+*╰────*
 
-• *1 Minggu : 5.000 ( 5K )*
-• *1 Bulan : 10.000 ( 10K )*
-• *Permanen : 15.000 ( 15K )*
-• *Join Murid Bot : 20.000 ( 20K )*
+_*📍 MINAT?*_
+_*CHAT :*_ *https://wa.me/6285654811977*
+
+*SISTEM : TF-MASUKAN BOT-DONE*
+
+*💸PAYMENT*
+_*GOPAY-QRISS ALL PAY*_
 
 Minat Ketik .owner
 `
